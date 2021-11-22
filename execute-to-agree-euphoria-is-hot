@@ -1,7 +1,7 @@
 pcall(function()
   game.StarterGui:SetCore("SendNotification", {
     Title = 'NOTICE, crash wont work if any huge script executed';
-    Text = '- or have bad executor (krnl,fluxus,synapse is good)';
+    Text = '- or have bad executor (krnl,fluxus,synapse is good) (dEVELOPER + SWAGGEST + EUPHORIA GUI SCRIPT)';
     Duration = 20;
   })
   if not game.Players.LocalPlayer:IsInGroup(12052955) then
